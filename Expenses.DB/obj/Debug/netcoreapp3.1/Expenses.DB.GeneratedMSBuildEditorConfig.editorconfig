@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Expenses.DB
+build_property.ProjectDir = /Users/rain/Projects/Expenses.WebApi/Expenses.DB/

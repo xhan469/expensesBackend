@@ -1,0 +1,13 @@
+/Users/rain/Projects/Expenses.WebApi/Expenses.DB/bin/Debug/netcoreapp3.1/Expenses.DB.deps.json
+/Users/rain/Projects/Expenses.WebApi/Expenses.DB/bin/Debug/netcoreapp3.1/Expenses.DB.runtimeconfig.json
+/Users/rain/Projects/Expenses.WebApi/Expenses.DB/bin/Debug/netcoreapp3.1/Expenses.DB.runtimeconfig.dev.json
+/Users/rain/Projects/Expenses.WebApi/Expenses.DB/bin/Debug/netcoreapp3.1/Expenses.DB.dll
+/Users/rain/Projects/Expenses.WebApi/Expenses.DB/bin/Debug/netcoreapp3.1/Expenses.DB.pdb
+/Users/rain/Projects/Expenses.WebApi/Expenses.DB/obj/Debug/netcoreapp3.1/Expenses.DB.csproj.AssemblyReference.cache
+/Users/rain/Projects/Expenses.WebApi/Expenses.DB/obj/Debug/netcoreapp3.1/Expenses.DB.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rain/Projects/Expenses.WebApi/Expenses.DB/obj/Debug/netcoreapp3.1/Expenses.DB.AssemblyInfoInputs.cache
+/Users/rain/Projects/Expenses.WebApi/Expenses.DB/obj/Debug/netcoreapp3.1/Expenses.DB.AssemblyInfo.cs
+/Users/rain/Projects/Expenses.WebApi/Expenses.DB/obj/Debug/netcoreapp3.1/Expenses.DB.csproj.CoreCompileInputs.cache
+/Users/rain/Projects/Expenses.WebApi/Expenses.DB/obj/Debug/netcoreapp3.1/Expenses.DB.dll
+/Users/rain/Projects/Expenses.WebApi/Expenses.DB/obj/Debug/netcoreapp3.1/Expenses.DB.pdb
+/Users/rain/Projects/Expenses.WebApi/Expenses.DB/obj/Debug/netcoreapp3.1/Expenses.DB.genruntimeconfig.cache
